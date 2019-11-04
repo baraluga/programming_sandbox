@@ -12,7 +12,7 @@
       "field": "Sample Field",
       "expected": "Expected"
     }],
-    "sites: [{
+    "sites": [{
       "error": "General Error",
       "row": "Sample Row",
       "field": "Sample Field",
