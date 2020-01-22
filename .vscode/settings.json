@@ -15,5 +15,6 @@
         "-p",
         "*_test.py"
     ],
-    "python.testing.promptToConfigure": false
+    "python.testing.promptToConfigure": false,
+    "python.formatting.provider": "black"
 }
