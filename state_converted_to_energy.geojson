@@ -7,7 +7,7 @@
       "properties": {
         "name": "Arkansas",
         "height": 10000,
-        "energy consumption": 56.43
+        "energyConsumption": 56.43
       },
       "geometry": {
         "type": "Polygon",
@@ -171,7 +171,7 @@
       "properties": {
         "name": "Nebraska",
         "height": 20000,
-        "energy consumption": 23
+        "energyConsumption": 23
       },
       "geometry": {
         "type": "Polygon",
@@ -303,7 +303,7 @@
       "properties": {
         "name": "New Mexico",
         "height": 15000,
-        "energy consumption": 17
+        "energyConsumption": 17
       },
       "geometry": {
         "type": "Polygon",
@@ -387,7 +387,7 @@
       "properties": {
         "name": "Puerto Rico",
         "height":5000,
-        "energy consumption": 10
+        "energyConsumption": 10
       },
       "geometry": {
         "type": "Polygon",
