@@ -6,7 +6,7 @@
       "id": "05",
       "properties": {
         "name": "Arkansas",
-        "height": 10000,
+        "height": 121887,
         "energyConsumption": 56.43
       },
       "geometry": {
@@ -170,7 +170,7 @@
       "id": "31",
       "properties": {
         "name": "Nebraska",
-        "height": 20000,
+        "height": 287712,
         "energyConsumption": 23
       },
       "geometry": {
@@ -302,7 +302,7 @@
       "id": "35",
       "properties": {
         "name": "New Mexico",
-        "height": 15000,
+        "height": 318871,
         "energyConsumption": 17
       },
       "geometry": {
@@ -386,7 +386,7 @@
       "id": "72",
       "properties": {
         "name": "Puerto Rico",
-        "height":5000,
+        "height":70881,
         "energyConsumption": 10
       },
       "geometry": {
