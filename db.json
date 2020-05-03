@@ -6,9 +6,9 @@
       "type": "generator"
     },
     {
-      "id": "generator_2",
+      "id": "caterator",
       "cost": "678.90",
-      "type": "generator"
+      "type": "cat"
     }
   ],
   "assets": [
