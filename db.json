@@ -1,22 +1,9 @@
 {
-  "validationErrors": {
-    "general": [{
-      "error": "General Error",
-      "row": "Sample Row",
-      "field": "Sample Field",
-      "expected": "Expected"
-    }],
-    "personal": [{
-      "error": "General Error",
-      "row": "Sample Row",
-      "field": "Sample Field",
-      "expected": "Expected"
-    }],
-    "sites": [{
-      "error": "General Error",
-      "row": "Sample Row",
-      "field": "Sample Field",
-      "expected": "Expected"
-    }]
-  }
+  "tools": [
+    {
+      "id": "generator_1",
+      "cost": "123.45",
+      "image": "https://p7.hiclipart.com/preview/905/298/566/5bbf7214db224.jpg"
+    }
+  ]
 }
