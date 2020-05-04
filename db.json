@@ -1,20 +1,33 @@
 {
   "tools": [
     {
-      "id": "generator_1",
+      "id": "wind_turbine_1",
       "cost": "123.45",
-      "type": "generator"
+      "type": "turbine"
     },
     {
-      "id": "caterator",
+      "id": "battery_1",
       "cost": "678.90",
-      "type": "cat"
+      "type": "battery"
+    },
+    {
+      "id": "catalyst",
+      "cost": "0.00",
+      "type": "dog"
     }
   ],
   "assets": [
     {
-      "id": "generator",
-      "image": "https://p7.hiclipart.com/preview/905/298/566/5bbf7214db224.jpg"
-    } 
+      "id": "turbine",
+      "icon": "https://img.icons8.com/color/96/000000/wind-turbine.png"
+    },
+    {
+      "id": "battery",
+      "icon": "https://img.icons8.com/color/96/000000/car-battery.png"
+    },
+    {
+      "id": "dog",
+      "icon": "https://img.icons8.com/color/96/000000/pug.png"
+    }
   ]
 }
