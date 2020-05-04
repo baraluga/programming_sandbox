@@ -19,15 +19,15 @@
   "assets": [
     {
       "id": "turbine",
-      "icon": "https://img.icons8.com/color/96/000000/wind-turbine.png"
+      "icon": "https://img.icons8.com/color/48/000000/wind-turbine.png"
     },
     {
       "id": "battery",
-      "icon": "https://img.icons8.com/color/96/000000/car-battery.png"
+      "icon": "https://img.icons8.com/color/48/000000/car-battery.png"
     },
     {
       "id": "dog",
-      "icon": "https://img.icons8.com/color/96/000000/pug.png"
+      "icon": "https://img.icons8.com/color/48/000000/pug.png"
     }
   ]
 }
